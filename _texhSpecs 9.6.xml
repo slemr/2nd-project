@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<sample>
+<main>Welcome to memoQ</main>
+<title>Technical specification for memoQ</title>
+<subtitle>Technical specification for memoQ - 9.6</subtitle>
+<text>Memory: 2 GB required, 4 GB or more recommended
+
+Hard disk space: 600 MB (this does not include your working data, nor the .NET Framework)
+
+Screen resolution: 1024x768 pixels required; 1920x1080 pixels recommended.</text>
+<subtitle>Technical specification for memoQ - OS</subtitle>
+<text>Operating system:
+• Windows 7 (with SP1 and newer),
+• Windows 8.1 (with the Windows 8.1 Update: KB2919355),
+• Windows 10 (with the Anniversary update: version 1607 and newer).
+memoQ 9 is only compatible with 64-bit Windows.
+
+Mac support: memoQ runs on iMac and MacBook computers in a virtual Windows machine (e.g. VMWare Fusion or Parallels). For the guest OS, see above.
+
+Microsoft .NET Framework: Version 4.7.2 or higher
+Note: The April 2018 Update for Windows 10 installs .NET Framework 4.7.2. If you are running Windows 7 or 8.1, you need to install the latest updates to the .NET Framework. (memoQ’s setup program will offer this.)</text>
+<comment>Other software: Microsoft Office is not required to work with DOC, XLS, RTF, DOCX, XLSX files. Microsoft Office 2013 and newer are supported.</comment>
+</sample>
